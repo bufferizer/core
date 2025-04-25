@@ -1,1 +1,1 @@
-# core
+# @bufferizer/core
